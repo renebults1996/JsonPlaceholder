@@ -1,11 +1,11 @@
-{
-  "Home": [
+[
     {
-      "street": "Meander",
-      "number": "36",
-      "postalCode": "9951VE"
-      "city": "Winsum"
+    "Home":
+        {
+            "street": "Meander",
+            "number": "36",
+            "postalCode": "9951VE"
+            "city": "Winsum"
+        }
     }
-  ]
-}
-
+]
