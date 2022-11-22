@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "Home":
     {
-      "id": 1,
-      "title": "hello"
+      "street": "Meander",
+      "number": "36",
+      "postalCode": "9951VE"
+      "city": "Winsum"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
+
